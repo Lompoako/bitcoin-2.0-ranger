@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Lompoako/bitcoin-2.0-ranger/blob/main/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Lompoako/bitcoin-2.0-ranger/blob/main/static/js/main.6bb97fd5.chunk.js",
+    "main.js.map": "/Lompoako/bitcoin-2.0-ranger/blob/main/static/js/main.6bb97fd5.chunk.js.map",
+    "runtime-main.js": "/Lompoako/bitcoin-2.0-ranger/blob/main/static/js/runtime-main.78a9413d.js",
+    "runtime-main.js.map": "/Lompoako/bitcoin-2.0-ranger/blob/main/static/js/runtime-main.78a9413d.js.map",
+    "static/js/2.0093c2a2.chunk.js": "/Lompoako/bitcoin-2.0-ranger/blob/main/static/js/2.0093c2a2.chunk.js",
+    "static/js/2.0093c2a2.chunk.js.map": "/Lompoako/bitcoin-2.0-ranger/blob/main/static/js/2.0093c2a2.chunk.js.map",
+    "static/js/3.dbff7b1a.chunk.js": "/Lompoako/bitcoin-2.0-ranger/blob/main/static/js/3.dbff7b1a.chunk.js",
+    "static/js/3.dbff7b1a.chunk.js.map": "/Lompoako/bitcoin-2.0-ranger/blob/main/static/js/3.dbff7b1a.chunk.js.map",
+    "index.html": "/Lompoako/bitcoin-2.0-ranger/blob/main/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Lompoako/bitcoin-2.0-ranger/blob/main/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0093c2a2.chunk.js.LICENSE.txt": "/Lompoako/bitcoin-2.0-ranger/blob/main/static/js/2.0093c2a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78a9413d.js",
+    "static/js/2.0093c2a2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6bb97fd5.chunk.js"
+  ]
+}
